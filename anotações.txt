@@ -1,0 +1,41 @@
+Estrutura Básica:
+
+<html>: Define o início e o fim do documento HTML.
+<head>: Contém informações sobre o documento, como metadados, scripts e estilos.
+<title>: Define o título da página exibido na barra de título do navegador.
+<body>: Contém o conteúdo visível da página.
+
+Textos:
+<p>: Define um parágrafo.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>: Define cabeçalhos de diferentes níveis.
+<strong> ou <b>: Define texto em negrito.
+<em> ou <i>: Define texto em itálico.
+<u>: Define texto sublinhado.
+
+Links e Âncoras:
+<a>: Define um hyperlink.
+Imagens:
+
+<img>: Define uma imagem.
+
+Listas:
+<ul>: Define uma lista não ordenada.
+<ol>: Define uma lista ordenada.
+<li>: Define um item de lista.
+
+Tabelas:
+<table>: Define uma tabela.
+<tr>: Define uma linha na tabela.
+<td>: Define uma célula de dados.
+<th>: Define uma célula de cabeçalho.
+Formulários:
+
+<form>: Define um formulário.
+<input>: Define um campo de entrada.
+<textarea>: Define uma área de texto multi-linha.
+<button>: Define um botão.
+<select>: Define uma lista suspensa.
+<option>: Define uma opção em uma lista suspensa.
+Elementos Semânticos:
+
+<header>, <footer>, <nav>, <article>, <section>, <aside>, <main>: Elementos usados para estruturar semanticamente o conteúdo da página.
